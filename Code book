@@ -1,0 +1,9 @@
+subject:
+The number of the 30 volunteer which ranges from 1 to 30.
+
+activity:
+It contains six factors with walking, walking upstairs, walking downstairs, sitting, standing and laying.
+
+66 left variables:
+They show the average of each variable, which is the mean or standard deviation in the 561-feature time and frequency 
+domain variables, for each activity and each subject.
